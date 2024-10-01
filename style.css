@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(144, 215, 109);
+}
+
+.button {
+    background-color: #939393;
+    font-size: 20px;
+}
+
+.legenda {
+    padding: 5px;
+}
